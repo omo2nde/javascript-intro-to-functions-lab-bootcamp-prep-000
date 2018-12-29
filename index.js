@@ -4,3 +4,5 @@ function shout("hello") {
 function whisper("HELLO") {
   return("HELLO").tolowercase("hello")
 }
+var uppercase = "HELLO"
+uppercase.toUpperCase() === uppercase // true
